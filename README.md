@@ -1,5 +1,1 @@
 # recipes
-
-butter
-egg
-rice
